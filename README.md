@@ -18,9 +18,6 @@ This project analyzes a simulated HR dataset to uncover the primary factors driv
 ### Interactive Tooltip Analysis
 ![Tooltip View](images/tooltip_view.png)
 
-*(Note: If the images above do not load, please ensure the file names exactly match the files inside your `images` folder).*
-
----
 
 ## Key Business Insights
 
