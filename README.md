@@ -3,7 +3,7 @@
 ## Project Overview
 This project analyzes a simulated HR dataset to uncover the primary factors driving employee attrition. The analysis was conducted in Power BI, utilizing custom DAX measures to track attrition rates and interactive visualizations to identify high-risk employee cohorts. The goal is to provide actionable intelligence to improve retention strategies.
 
-### 📂 Repository Structure
+### Repository Structure
 - **`HR_Data_Analysis.pbix`**: The complete Power BI dashboard file containing the data model, DAX measures, and visualizations. *(Start here!)*
 - **`HR-Employee-Attrition.csv`**: The raw dataset used for the analysis.
 - **`images/`**: Folder containing high-resolution screenshots of the dashboard interface.
